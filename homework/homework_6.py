@@ -197,5 +197,3 @@ emails = sender_email(
 print(
     f"Отправленные письма:\n", json.dumps(emails, indent=4, ensure_ascii=False)
 )
-
-
