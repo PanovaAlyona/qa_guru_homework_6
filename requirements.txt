@@ -1,0 +1,9 @@
+iniconfig==2.3.0
+packaging==25.0
+pluggy==1.6.0
+Pygments==2.19.2
+pytest==8.4.2
+selenium==4.38.0
+black==25.9.0
+flake8==7.3.0
+isort==7.0.0
